@@ -9,7 +9,7 @@ let loadImage = (src, callback) => {
 };
 
 let imagePath = (frameNumber, animation) => {
-    return "/images/" + animation + "/" + frameNumber + ".png" ;
+    return "/Martial-Artist-Simulator-JS/images/" + animation + "/" + frameNumber + ".png" ;
 }
 
 let frames = {
